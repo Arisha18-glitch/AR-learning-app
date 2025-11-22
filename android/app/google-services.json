@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723238493616",
+    "project_id": "neurotick-13a0b",
+    "storage_bucket": "neurotick-13a0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723238493616:android:b14b25ec046bbd34d6ca75",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC23pvBHdeo7deVPQJ4T779hArQStsnFo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -24,15 +24,9 @@ flutter pub get
 <br>
 flutter run
 ## Categories
-Biology
-
-Physics
-
-Chemistry
-
-Astronomy
-
-Mathematics
+-Biology
+-Chemistry
+-Astronomy
 
 ## Status
 In Development - Frontend completed, backend integration in progress

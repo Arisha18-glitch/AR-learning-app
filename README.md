@@ -1,6 +1,4 @@
 HEAD
-# Neuro Tick
-A new Flutter project.
 # NeuroTick - AR Learning App
 
 ## Overview

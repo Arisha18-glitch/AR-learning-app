@@ -28,6 +28,7 @@ lib/
 ## 🔧 Installation
 
 flutter pub get
+br
 flutter run
 ## Categories
 Biology
